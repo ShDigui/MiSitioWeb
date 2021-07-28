@@ -5,6 +5,10 @@ p {
 h1 {
     font-style:italic;
 }
+.nombre {
+    font-style: italic;
+    color: rgb(55, 100, 77);
+}
 h2 {
     font-size: 50px;
 }
