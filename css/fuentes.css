@@ -12,8 +12,9 @@ p.fuente-net {
     font-family: 'Bebas Neue', sans-serif;
 } 
  .fuente-net2 {
+     text-align: center;
      color: red;
-     font-size: 50px;
+     font-size: 200px;
      font-family: 'Bebas Neue', sans-serif;
 }
 span{
